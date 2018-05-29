@@ -1,0 +1,1 @@
+[?1049h[1;24r(B[m[4l[?7h[H[2JEvery 120.0s: echo Hello you    Zoes-MacBook-Pro.local: Tue May 29 15:34:32 2018[3;1HHello you[24;80H[1;72H6[24;80H
